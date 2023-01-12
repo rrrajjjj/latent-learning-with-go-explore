@@ -20,4 +20,5 @@ This project demonstrates that reinforcement learning can be used to replicate t
 
 ## Acknoledgements 
 The maze environment has been created using [mazelab](https://github.com/zuoxingdong/mazelab). 
+
 This project has been undertaken as a class project for the **Systems Design, Integration, and Control** class at Universitat Pompeu Fabra. 
