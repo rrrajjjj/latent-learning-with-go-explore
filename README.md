@@ -18,7 +18,7 @@ This project demonstrates that reinforcement learning can be used to replicate t
 1. Tolman, E. C. (1948). Cognitive maps in rats and men. Psychological Review, 55(4), 189–208.
 2. Ecoffet, Adrien, et al. "First return, then explore." Nature 590.7847 (2021): 580-586.
 
-## Acknoledgements 
+## Acknowledgements 
 The maze environment has been created using [mazelab](https://github.com/zuoxingdong/mazelab). 
 
 This project has been undertaken as a class project for the **Systems Design, Integration, and Control** class at Universitat Pompeu Fabra. 
